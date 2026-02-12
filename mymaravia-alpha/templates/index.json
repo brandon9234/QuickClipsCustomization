@@ -1,0 +1,3586 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "quick_filter_ggbRjG": {
+      "type": "quick-filter",
+      "blocks": {
+        "heading_GgAEPF": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Find</em> parts<em>,</em> rims<em>,++</em> lights <em>&</em> [electrics|mirrors|controls|covers|trim|tires]<em>.</em>",
+            "heading_italic_convert": "light",
+            "heading_size": "custom",
+            "heading_size_custom": 3,
+            "heading_line_height_custom": 1.1,
+            "heading_tag": "h1"
+          }
+        },
+        "quick_filter_collection_EBgtR7": {
+          "type": "quick_filter_collection",
+          "settings": {
+            "filter_collection": "",
+            "text_size": "t3",
+            "preselect": false,
+            "min_items_for_search": 15,
+            "auto_open_next_dropdown": false,
+            "show_product_count": false,
+            "dropdown_width_medium": 28,
+            "dropdown_width_large": 10,
+            "select1_filter_name": "",
+            "select1_label": "Select Make",
+            "select2_filter_name": "",
+            "select2_label": "Select Model",
+            "select3_filter_name": "",
+            "select3_label": "Select Year",
+            "select4_filter_name": "",
+            "select4_label": "Select Generation",
+            "select5_filter_name": "",
+            "select5_label": "",
+            "select6_filter_name": "",
+            "select6_label": "",
+            "button_label": "Find parts",
+            "hide_label": true,
+            "button_orphan": false,
+            "button_icon": "search",
+            "icon_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GgAEPF",
+        "quick_filter_collection_EBgtR7"
+      ],
+      "settings": {
+        "quick_filter_max_width": 500,
+        "vertical_padding": 6.2,
+        "image_overlay_opacity": 0,
+        "image_link": "",
+        "fix_image": false,
+        "skew_images": true,
+        "stack_images_on_mobile": true,
+        "image_ratio": "custom",
+        "desktop_section_height": 630,
+        "mobile_section_height": 300,
+        "desktop_content_position": "md:justify-start md:items-center",
+        "mobile_content_position": "justify-center items-center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "show_text_box": "always",
+        "color_scheme": "scheme-4",
+        "container_color_scheme": "scheme-12",
+        "transparent_dropdowns": true,
+        "remove_padding_x": false,
+        "line_separator": "",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-0",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "quick_filter_38EwTz": {
+      "type": "quick-filter",
+      "blocks": {
+        "icon_with_text_BaRQn3": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon_heading_gap": 1,
+            "text_max_width": 400,
+            "link": "",
+            "icon": "construction",
+            "icon_container": "none",
+            "icon_size": 3.2,
+            "icon_vertical_position": 0.6,
+            "icon_color": "#313131",
+            "icon_background_color": "#ffffff",
+            "background_gradient": "",
+            "heading": "<em>Search by</em> Part type",
+            "heading_italic_convert": "light",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "t3"
+          }
+        },
+        "quick_filter_collection_6LnaMN": {
+          "type": "quick_filter_collection",
+          "settings": {
+            "filter_collection": "",
+            "text_size": "t4",
+            "preselect": false,
+            "min_items_for_search": 10,
+            "auto_open_next_dropdown": false,
+            "show_product_count": true,
+            "dropdown_width_medium": 33,
+            "dropdown_width_large": 10,
+            "select1_filter_name": "",
+            "select1_label": "Part type",
+            "select2_filter_name": "",
+            "select2_label": "Make",
+            "select3_filter_name": "",
+            "select3_label": "Model",
+            "select4_filter_name": "",
+            "select4_label": "Generation",
+            "select5_filter_name": "",
+            "select5_label": "Year",
+            "select6_filter_name": "",
+            "select6_label": "",
+            "button_label": "Find parts",
+            "hide_label": false,
+            "button_orphan": false,
+            "button_icon": "arrow_right",
+            "icon_alignment": "right"
+          }
+        }
+      },
+      "block_order": [
+        "icon_with_text_BaRQn3",
+        "quick_filter_collection_6LnaMN"
+      ],
+      "name": "Quick filter (YMM)",
+      "settings": {
+        "quick_filter_max_width": 1350,
+        "vertical_padding": 4.2,
+        "image_overlay_opacity": 40,
+        "image_link": "",
+        "fix_image": false,
+        "skew_images": false,
+        "stack_images_on_mobile": true,
+        "image_ratio": "custom",
+        "desktop_section_height": 100,
+        "mobile_section_height": 300,
+        "desktop_content_position": "md:justify-center md:items-center",
+        "mobile_content_position": "justify-center items-center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "show_text_box": "off",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-f458ee7b-4a88-446f-aadb-efa00654fe75",
+        "transparent_dropdowns": false,
+        "remove_padding_x": true,
+        "line_separator": "border-top border-bottom",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-0",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "multicolumn_ybzU9y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_background_7pMrJM": {
+          "type": "column_background",
+          "settings": {
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-start",
+            "content_padding": 3,
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "#ffffff",
+            "icon_background_color": "#44c3ed",
+            "background_gradient": "linear-gradient(45deg, rgba(54, 149, 250, 1), rgba(68, 195, 237, 1) 100%)",
+            "title": "<strong>Interior</strong>",
+            "heading_tag": "h3",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "text": "<p>Carbon fiber shifters<br/>Gear shift covers<br/>Phone chargers</p>",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Shop Interior",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-f1c9f766-f2b2-4c4c-b1b4-9902401645fa",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_background_gCY6EL": {
+          "type": "column_background",
+          "settings": {
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-start",
+            "content_padding": 3,
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "#ffffff",
+            "icon_background_color": "#44c3ed",
+            "background_gradient": "linear-gradient(45deg, rgba(54, 149, 250, 1), rgba(68, 195, 237, 1) 100%)",
+            "title": "<strong>Exterior</strong>",
+            "heading_tag": "h3",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "text": "<p>Dual slat kidney grilles<br/>Rear trunk spoilers<br/>Hood scoops</p>",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Shop Exterior",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-f1c9f766-f2b2-4c4c-b1b4-9902401645fa",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_background_LKRFxP": {
+          "type": "column_background",
+          "settings": {
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-start",
+            "content_padding": 3,
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "#ffffff",
+            "icon_background_color": "#44c3ed",
+            "background_gradient": "linear-gradient(45deg, rgba(54, 149, 250, 1), rgba(68, 195, 237, 1) 100%)",
+            "title": "<strong>Lighting</strong>",
+            "heading_tag": "h3",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "text": "<p>Dynamic turn signals<br/>License plate lights<br/>Front fog lights</p>",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Shop Lighting",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-f1c9f766-f2b2-4c4c-b1b4-9902401645fa",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_background_niJXg9": {
+          "type": "column_background",
+          "settings": {
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-start",
+            "content_padding": 3,
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "#ffffff",
+            "icon_background_color": "#44c3ed",
+            "background_gradient": "linear-gradient(45deg, rgba(54, 149, 250, 1), rgba(68, 195, 237, 1) 100%)",
+            "title": "<strong>Electrical</strong>",
+            "heading_tag": "h3",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "text": "<p>Center console switches<br/>Android Auto Carplay<br/>USB chargers</p>",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Shop Electrical",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-f1c9f766-f2b2-4c4c-b1b4-9902401645fa",
+            "color_scheme_bg_fix": false
+          }
+        }
+      },
+      "block_order": [
+        "column_background_7pMrJM",
+        "column_background_gCY6EL",
+        "column_background_LKRFxP",
+        "column_background_niJXg9"
+      ],
+      "name": "Multicolumn",
+      "settings": {
+        "icon_bottom": false,
+        "desktop_section_height": 550,
+        "mobile_section_height": 480,
+        "desktop_layout": "grid",
+        "mobile_layout": "carousel",
+        "columns_desktop": "4",
+        "columns_desktop_scale": true,
+        "columns_mobile": "1",
+        "image_overlay_opacity": 0,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "",
+        "heading_size": "h3",
+        "text": "",
+        "text_size": "t3",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "color_scheme": "scheme-2",
+        "card_shadow": true,
+        "line_separator": "border-bottom",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "contact_form_UV8Apg": {
+      "type": "contact-form",
+      "blocks": {
+        "heading_yJkRpV": {
+          "type": "heading",
+          "settings": {
+            "visibility": "always",
+            "heading": "Book [our services|a fitting|a consultation]",
+            "heading_italic_convert": "",
+            "heading_size": "h2",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h3"
+          }
+        },
+        "text_HdGPbh": {
+          "type": "text",
+          "settings": {
+            "visibility": "always",
+            "text": "<p>Ready to schedule your service or online consultation? Fill out the form and we’ll get back to you with availability.</p>",
+            "text_size": "t3"
+          }
+        },
+        "dropdown_H7MMMj": {
+          "type": "dropdown",
+          "settings": {
+            "title": "Service",
+            "tip": "",
+            "options": "Repair\nTire Fitting\nEquipment Hire\nPart Fitting & Installation Service\nRemote Diagnostic Support\nFree Online Fitment Check",
+            "half_width_on_desktop": false,
+            "required": true
+          }
+        },
+        "date_yXxdgP": {
+          "type": "date",
+          "settings": {
+            "title": "First choice date",
+            "tip": "",
+            "half_width_on_desktop": true,
+            "required": false,
+            "show_time": false,
+            "enable_validation": true,
+            "can_pick_past": false,
+            "validation_monday": true,
+            "validation_monday_error": "Sorry, you can't pick Mondays.",
+            "validation_tuesday": true,
+            "validation_tuesday_error": "Sorry, you can't pick Tuesdays.",
+            "validation_wednesday": true,
+            "validation_wednesday_error": "Sorry, you can't pick Wednesdays.",
+            "validation_thursday": true,
+            "validation_thursday_error": "Sorry, you can't pick Thursdays.",
+            "validation_friday": true,
+            "validation_friday_error": "Sorry, you can't pick Fridays.",
+            "validation_saturday": true,
+            "validation_saturday_error": "Sorry, you can't pick Saturdays.",
+            "validation_sunday": true,
+            "validation_sunday_error": "Sorry, you can't pick Sundays."
+          }
+        },
+        "date_Ugpyyz": {
+          "type": "date",
+          "settings": {
+            "title": "Second choice date",
+            "tip": "",
+            "half_width_on_desktop": true,
+            "required": false,
+            "show_time": false,
+            "enable_validation": true,
+            "can_pick_past": false,
+            "validation_monday": true,
+            "validation_monday_error": "Sorry, you can't pick Mondays.",
+            "validation_tuesday": true,
+            "validation_tuesday_error": "Sorry, you can't pick Tuesdays.",
+            "validation_wednesday": true,
+            "validation_wednesday_error": "Sorry, you can't pick Wednesdays.",
+            "validation_thursday": true,
+            "validation_thursday_error": "Sorry, you can't pick Thursdays.",
+            "validation_friday": true,
+            "validation_friday_error": "Sorry, you can't pick Fridays.",
+            "validation_saturday": true,
+            "validation_saturday_error": "Sorry, you can't pick Saturdays.",
+            "validation_sunday": true,
+            "validation_sunday_error": "Sorry, you can't pick Sundays."
+          }
+        },
+        "spacer_YAKq8J": {
+          "type": "spacer",
+          "settings": {
+            "show_line_separator": true,
+            "spacing_top": 0,
+            "spacing_bottom": 0,
+            "spacer_visibility": "both",
+            "line_color": ""
+          }
+        },
+        "custom_text_hEMxb3": {
+          "type": "custom_text",
+          "settings": {
+            "title": "First name",
+            "tip": "",
+            "half_width_on_desktop": true,
+            "required": false
+          }
+        },
+        "custom_text_gTcqwz": {
+          "type": "custom_text",
+          "settings": {
+            "title": "Last name",
+            "tip": "",
+            "half_width_on_desktop": true,
+            "required": false
+          }
+        },
+        "custom_text_pPwzdx": {
+          "type": "custom_text",
+          "settings": {
+            "title": "Your location (city and zip code)",
+            "tip": "",
+            "half_width_on_desktop": false,
+            "required": false
+          }
+        },
+        "email_8gxHfU": {
+          "type": "email",
+          "settings": {
+            "title": "Email",
+            "tip": "",
+            "half_width_on_desktop": false
+          }
+        },
+        "text_CW6GJz": {
+          "type": "text",
+          "settings": {
+            "visibility": "success",
+            "text": "<p>Thanks for your booking. We’ll get back to you within 24 hours to confirm availability on your selected dates.</p>",
+            "text_size": "t3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yJkRpV",
+        "text_HdGPbh",
+        "dropdown_H7MMMj",
+        "date_yXxdgP",
+        "date_Ugpyyz",
+        "spacer_YAKq8J",
+        "custom_text_hEMxb3",
+        "custom_text_gTcqwz",
+        "custom_text_pPwzdx",
+        "email_8gxHfU",
+        "text_CW6GJz"
+      ],
+      "name": "Contact form",
+      "settings": {
+        "preview_success": false,
+        "show_standard_success_message": false,
+        "submit_button_text": "Book",
+        "image_overlay_opacity": 0,
+        "desktop_section_height": 500,
+        "mobile_section_height": 360,
+        "desktop_media_width": 50,
+        "layout": "media_first",
+        "content_layout": "no-overlap",
+        "show_header_beside": true,
+        "content_max_width": "xl",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "center",
+        "desktop_content_position": "md:justify-center md:items-start",
+        "mobile_content_position": "justify-center items-start",
+        "title": "Repair ∙ Installation ∙ Equipment Hire",
+        "italic_convert": "accent",
+        "heading_size": "h4",
+        "text": "",
+        "text_size": "t4",
+        "button_text_size": "t5",
+        "button_label": "Our services",
+        "button_link": "/",
+        "button_style": "secondary",
+        "button_style_show_arrow": true,
+        "button_style_show_gradient_border": true,
+        "button_border_gradient": "linear-gradient(107deg, rgba(255, 255, 255, 1) 15%, rgba(252, 196, 132, 1) 85%)",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "image_overlay_color_scheme": "scheme-1ceac8af-8528-4fbc-894d-c6e0136c665c",
+        "show_content_shadow": true,
+        "line_separator": "border-bottom",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "gallery_NLQmNA": {
+      "type": "gallery",
+      "blocks": {
+        "gallery_item_3APeQb": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": false,
+            "wide": true,
+            "column_alignment": "right",
+            "text_vertical_alignment": "justify-start",
+            "content_max_width": "xs",
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "Quality car parts,++ all in one place",
+            "heading_size": "custom",
+            "heading_size_custom": 2.4,
+            "text": "",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "BMV Parts",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-12"
+          }
+        },
+        "gallery_item_eeAqaF": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": true,
+            "wide": true,
+            "column_alignment": "center",
+            "text_vertical_alignment": "justify-start",
+            "content_max_width": "s",
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "Essential in-car tech++ and electronics",
+            "heading_size": "custom",
+            "heading_size_custom": 3,
+            "text": "",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Electricals",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-4"
+          }
+        },
+        "gallery_item_ArwUXz": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": false,
+            "wide": true,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-center",
+            "content_max_width": "xs",
+            "image_overlay_opacity": 0,
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "Premium wheels++ for your Mino",
+            "heading_size": "custom",
+            "heading_size_custom": 2.4,
+            "text": "",
+            "text_size": "t3",
+            "button_text_size": "t6",
+            "button_label": "Mino Parts",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": true,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-12"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_3APeQb",
+        "gallery_item_eeAqaF",
+        "gallery_item_ArwUXz"
+      ],
+      "settings": {
+        "columns_desktop": 4,
+        "spacing_grid": 20,
+        "spacing_grid_mobile": 14,
+        "corner_rounding": "inner",
+        "content_padding": 4.5,
+        "desktop_section_height": 310,
+        "mobile_section_height": 300,
+        "mobile_layout": "carousel",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_size": "t3",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "section_color_scheme": "scheme-2",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "image_banner_yVBpky": {
+      "type": "image-banner",
+      "blocks": {
+        "text_mGJRYD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>LIMITED TIME ONLY</p>",
+            "text_size": "t3"
+          }
+        },
+        "heading_J9ARTA": {
+          "type": "heading",
+          "settings": {
+            "heading": "SAVE <em>UP TO 20%</em> ON++ [BODY|INTERIOR|ELECTRIC] COMPONENTS",
+            "heading_italic_convert": "accent",
+            "heading_size": "custom",
+            "heading_size_custom": 3.2,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "spacer_CpyHrB": {
+          "type": "spacer",
+          "settings": {
+            "show_line_separator": true,
+            "spacing_top": 2.4,
+            "spacing_bottom": 2.4,
+            "spacer_visibility": "both",
+            "line_color": ""
+          }
+        },
+        "countdown_JtWRqN": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "",
+            "end_time": "",
+            "end_action": "hide",
+            "end_message": "You just missed it!",
+            "abbreviate_units": false,
+            "countdown_size": 38,
+            "separator": ":",
+            "countdown_font_weight": "bold",
+            "text_alignment": "center",
+            "countdown_container": "none",
+            "countdown_color": "",
+            "countdown_background_color": "#ededed",
+            "countdown_background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_mGJRYD",
+        "heading_J9ARTA",
+        "spacer_CpyHrB",
+        "countdown_JtWRqN"
+      ],
+      "settings": {
+        "image_overlay_opacity": 22,
+        "image_link": "",
+        "fix_image": false,
+        "skew_images": false,
+        "stack_images_on_mobile": true,
+        "image_ratio": "custom",
+        "desktop_section_height": 550,
+        "mobile_section_height": 380,
+        "full_width": true,
+        "full_width_animate": false,
+        "desktop_content_position": "md:justify-start md:items-center",
+        "mobile_content_position": "justify-center items-center",
+        "content_max_width": "m",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "show_text_box": "off",
+        "show_text_below": false,
+        "color_scheme": "",
+        "container_color_scheme": "scheme-6",
+        "line_separator": "border-top",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "scrolling_text_9ymWCM": {
+      "type": "scrolling-text",
+      "blocks": {
+        "heading_nw6M77": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>Order before 1pm for next day delivery!</em>",
+            "heading_italic_convert": "",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "icon_B6YmrK": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": ""
+          }
+        },
+        "icon_fjNmEC": {
+          "type": "icon",
+          "settings": {
+            "icon": "speedometer",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_nw6M77",
+        "icon_B6YmrK",
+        "icon_fjNmEC"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": 2.4,
+        "gap": 3,
+        "speed": 24,
+        "direction": "normal",
+        "pause_on_hover": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_size": "t3",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "color_scheme": "scheme-10",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-0",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "section_tabs_iNHzGa": {
+      "type": "section-tabs",
+      "settings": {
+        "section_tabs": "2",
+        "tab1": "Bestsellers",
+        "tab2": "Lighting",
+        "tab3": "",
+        "tab4": "",
+        "tab_style": "switch",
+        "tab_alignment": "center",
+        "tab_text_size": "t3",
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "center",
+        "title": "Under the <em>hood</em> savings",
+        "italic_convert": "accent",
+        "heading_size": "h1",
+        "text": "<p>All the car parts you'll ever need, in one place.</p>",
+        "text_size": "t1",
+        "color_scheme": "scheme-f458ee7b-4a88-446f-aadb-efa00654fe75",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-0",
+        "heading_tag": "h2"
+      }
+    },
+    "featured_collection_PCNhTz": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products_to_show": 8,
+        "desktop_layout": "carousel",
+        "mobile_layout": "carousel",
+        "columns_desktop": "5",
+        "columns_mobile": "1",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "accent",
+        "heading_size": "h2",
+        "text": "",
+        "text_size": "t2",
+        "show_view_all_link": false,
+        "view_all_text": "Show me",
+        "view_all_text_size": "t5",
+        "view_all_card_visibility": "",
+        "view_all_card_text": "There's plenty more...",
+        "color_scheme": "",
+        "view_all_color_scheme": "scheme-d69e0ed9-d207-43c6-9e73-0d91ee215dde",
+        "line_separator": "",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "featured_collection_7niAy6": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "",
+        "products_to_show": 8,
+        "desktop_layout": "carousel",
+        "mobile_layout": "carousel",
+        "columns_desktop": "5",
+        "columns_mobile": "1",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "accent",
+        "heading_size": "h2",
+        "text": "",
+        "text_size": "t2",
+        "show_view_all_link": false,
+        "view_all_text": "Show me",
+        "view_all_text_size": "t5",
+        "view_all_card_visibility": "",
+        "view_all_card_text": "There's plenty more...",
+        "color_scheme": "",
+        "view_all_color_scheme": "scheme-d69e0ed9-d207-43c6-9e73-0d91ee215dde",
+        "line_separator": "",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "rich_text_N3Jm4R": {
+      "type": "rich-text",
+      "blocks": {
+        "caption_QfipNH": {
+          "type": "caption",
+          "settings": {
+            "caption": "Driven to keep you on the road",
+            "caption_text_style": "caption-with-letter-spacing",
+            "caption_text_size": "t6"
+          }
+        },
+        "heading_Fb3LAa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quality [<em>Car</em>|<em>Moto</em>|<em>Engine</em>] Parts",
+            "heading_italic_convert": "accent",
+            "heading_size": "h0",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "text_B69M8t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re committed to fueling your car’s performance and igniting your passion for the road. Our expertly curated selection of parts delivers reliability and precision for every drive.</p>",
+            "text_size": "t1"
+          }
+        },
+        "buttons_PQpYRD": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t3",
+            "button_label_1": "More about us",
+            "button_link_1": "",
+            "button_style_1": "primary",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        }
+      },
+      "block_order": [
+        "caption_QfipNH",
+        "heading_Fb3LAa",
+        "text_B69M8t",
+        "buttons_PQpYRD"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_max_width": "s",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-2",
+        "container_color_scheme": "scheme-2",
+        "show_content_shadow": false,
+        "line_separator": "border-top",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "image_hotspots_nL3JUE": {
+      "type": "image-hotspots",
+      "blocks": {
+        "heading_7HFTGG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore our range of <em>interior</em> parts",
+            "heading_italic_convert": "outline_accent",
+            "heading_size": "h1",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "buttons_9ygURd": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t5",
+            "button_label_1": "Interiors",
+            "button_link_1": "",
+            "button_style_1": "primary",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        },
+        "hotspot_R9yJ9R": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_horizontal_position_desktop": 78,
+            "hotspot_vertical_position_desktop": 65,
+            "hotspot_horizontal_position_override_desktop": "",
+            "hotspot_vertical_position_override_desktop": "",
+            "hotspot_position_mobile": false,
+            "hotspot_horizontal_position_mobile": 50,
+            "hotspot_vertical_position_mobile": 50,
+            "hotspot_horizontal_position_override_mobile": "",
+            "hotspot_vertical_position_override_mobile": "",
+            "popover_product": "",
+            "title": "Stop/Start Buttons",
+            "popover_content": "<p>Upgrade to a new Stop/Start button for smoother starts, lasting durability, and a sleek look.</p>",
+            "popover_button_label": "",
+            "popover_button_link": "",
+            "popover_button_style": "link",
+            "popover_button_show_arrow": true,
+            "hotspot_style": "question",
+            "hotspot_size_desktop": 40,
+            "hotspot_size_mobile": 24,
+            "hotspot_pulse": true,
+            "popover_width_desktop": 335,
+            "popover_title_size": "t0",
+            "popover_content_size": "t2",
+            "popover_button_text_size": "t6",
+            "popover_color_scheme": "scheme-5",
+            "hotspot_background_color": "#ea813b",
+            "hotspot_foreground_color": "#ecf5fc",
+            "hotspot_opacity": 100,
+            "hotspot_visibility": ""
+          }
+        },
+        "hotspot_YJJb3V": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_horizontal_position_desktop": 20,
+            "hotspot_vertical_position_desktop": 75,
+            "hotspot_horizontal_position_override_desktop": "",
+            "hotspot_vertical_position_override_desktop": "",
+            "hotspot_position_mobile": false,
+            "hotspot_horizontal_position_mobile": 50,
+            "hotspot_vertical_position_mobile": 50,
+            "hotspot_horizontal_position_override_mobile": "",
+            "hotspot_vertical_position_override_mobile": "",
+            "popover_product": "",
+            "title": "Replacement Gear Shifts",
+            "popover_content": "<p>Upgrade your ride with a replacement gear shift for smoother transitions and a custom, stylish feel.</p>",
+            "popover_button_label": "",
+            "popover_button_link": "",
+            "popover_button_style": "link",
+            "popover_button_show_arrow": true,
+            "hotspot_style": "question",
+            "hotspot_size_desktop": 40,
+            "hotspot_size_mobile": 24,
+            "hotspot_pulse": true,
+            "popover_width_desktop": 335,
+            "popover_title_size": "t0",
+            "popover_content_size": "t2",
+            "popover_button_text_size": "t6",
+            "popover_color_scheme": "scheme-5",
+            "hotspot_background_color": "#ea813b",
+            "hotspot_foreground_color": "#ecf5fc",
+            "hotspot_opacity": 100,
+            "hotspot_visibility": ""
+          }
+        },
+        "hotspot_jGMYPR": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_horizontal_position_desktop": 69,
+            "hotspot_vertical_position_desktop": 14,
+            "hotspot_horizontal_position_override_desktop": "",
+            "hotspot_vertical_position_override_desktop": "",
+            "hotspot_position_mobile": false,
+            "hotspot_horizontal_position_mobile": 50,
+            "hotspot_vertical_position_mobile": 50,
+            "hotspot_horizontal_position_override_mobile": "",
+            "hotspot_vertical_position_override_mobile": "",
+            "popover_product": "",
+            "title": "Replacement Steering Wheels",
+            "popover_content": "<p>Enhance control and style with a replacement steering wheel for a better driving experience.</p>",
+            "popover_button_label": "",
+            "popover_button_link": "",
+            "popover_button_style": "link",
+            "popover_button_show_arrow": true,
+            "hotspot_style": "question",
+            "hotspot_size_desktop": 40,
+            "hotspot_size_mobile": 24,
+            "hotspot_pulse": true,
+            "popover_width_desktop": 335,
+            "popover_title_size": "t0",
+            "popover_content_size": "t2",
+            "popover_button_text_size": "t6",
+            "popover_color_scheme": "scheme-5",
+            "hotspot_background_color": "#ea813b",
+            "hotspot_foreground_color": "#ecf5fc",
+            "hotspot_opacity": 100,
+            "hotspot_visibility": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_7HFTGG",
+        "buttons_9ygURd",
+        "hotspot_R9yJ9R",
+        "hotspot_YJJb3V",
+        "hotspot_jGMYPR"
+      ],
+      "settings": {
+        "image_overlay_opacity": 26,
+        "skew_images": false,
+        "image_ratio": "adapt",
+        "full_width": false,
+        "desktop_content_position": "md:justify-start md:items-start",
+        "content_max_width": "s",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "show_text_box": "mobile",
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "scheme-3",
+        "line_separator": "",
+        "top_padding": "pt-s05",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "flexible_columns_NPKQNp": {
+      "type": "flexible-columns",
+      "blocks": {
+        "layout_column_QJrVah": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_CtdeUE": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_CtdeUE"
+          ]
+        },
+        "layout_column_LUR3dY": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "Audil Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_jLMwCr": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_jLMwCr"
+          ]
+        },
+        "layout_column_jXUE4V": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "Mino Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_ck6kAW": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_ck6kAW"
+          ]
+        },
+        "layout_column_iPcEXL": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_rDgQeR": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_rDgQeR"
+          ]
+        },
+        "layout_column_tBjyFF": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_EEPR7U": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_EEPR7U"
+          ]
+        },
+        "layout_column_KbiqNM": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_xtyeEY": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_xtyeEY"
+          ]
+        },
+        "layout_column_RKEC9r": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_VJK6Km": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_VJK6Km"
+          ]
+        },
+        "layout_column_UAqjtE": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_Ua4YWy": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_Ua4YWy"
+          ]
+        },
+        "layout_column_njGtif": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_fpTjVW": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_fpTjVW"
+          ]
+        },
+        "layout_column_8RAxiw": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "/",
+            "column_link_text": "BMV Car Parts",
+            "small_breakpoint_width": 50,
+            "medium_breakpoint_width": 50,
+            "width": 20,
+            "height_mode": "custom",
+            "min_height": 140,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "center",
+            "mobile_content_alignment": "center",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-center",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": false,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "image_single_nRwG4X": {
+              "type": "image_single",
+              "settings": {
+                "max_width": 80,
+                "round_corners": true,
+                "image_link": "",
+                "zoom_on_hover": true,
+                "hide_when_empty": false
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "image_single_nRwG4X"
+          ]
+        }
+      },
+      "block_order": [
+        "layout_column_QJrVah",
+        "layout_column_LUR3dY",
+        "layout_column_jXUE4V",
+        "layout_column_iPcEXL",
+        "layout_column_tBjyFF",
+        "layout_column_KbiqNM",
+        "layout_column_RKEC9r",
+        "layout_column_UAqjtE",
+        "layout_column_njGtif",
+        "layout_column_8RAxiw"
+      ],
+      "name": "Cards",
+      "settings": {
+        "gap_small": 2,
+        "gap_medium": 2,
+        "gap_desktop": 2,
+        "section_max_width": "l2",
+        "use_breakpoints": true,
+        "small_breakpoint_custom": "549",
+        "medium_breakpoint_custom": "849",
+        "image_overlay_opacity": 0,
+        "content_max_width": "s",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "Leading Brands",
+        "italic_convert": "",
+        "heading_size": "h2",
+        "text": "<p>From everyday essentials to specialist components, we stock the parts that keep BMV, Mino and Audil running at their best.</p>",
+        "text_size": "t1",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "section_color_scheme": "",
+        "line_separator": "border-top",
+        "top_padding": "pt-s15",
+        "bottom_padding": "pb-s15",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "image_banner_CR7kcX": {
+      "type": "image-banner",
+      "blocks": {
+        "caption_VCptqq": {
+          "type": "caption",
+          "settings": {
+            "caption": "SALE STARTS SOON",
+            "caption_text_style": "caption-with-letter-spacing",
+            "caption_text_size": "t3"
+          }
+        },
+        "spacer_bnyfPh": {
+          "type": "spacer",
+          "settings": {
+            "show_line_separator": false,
+            "spacing_top": 3.1,
+            "spacing_bottom": 1.1,
+            "spacer_visibility": "both",
+            "line_color": ""
+          }
+        },
+        "heading_emqQPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em>BLACK ++FRIDAY</em>",
+            "heading_italic_convert": "glow",
+            "heading_size": "custom",
+            "heading_size_custom": 7,
+            "heading_line_height_custom": 0.9,
+            "heading_tag": "h2"
+          }
+        },
+        "spacer_pnRrMj": {
+          "type": "spacer",
+          "settings": {
+            "show_line_separator": false,
+            "spacing_top": 2.9,
+            "spacing_bottom": 2.9,
+            "spacer_visibility": "both",
+            "line_color": ""
+          }
+        },
+        "countdown_yGBUp4": {
+          "type": "countdown",
+          "settings": {
+            "end_date": "",
+            "end_time": "",
+            "end_action": "hide",
+            "end_message": "You just missed it!",
+            "abbreviate_units": false,
+            "countdown_size": 40,
+            "separator": ":",
+            "countdown_font_weight": "bold",
+            "text_alignment": "center",
+            "countdown_container": "none",
+            "countdown_color": "#f8f9fa",
+            "countdown_background_color": "#000000",
+            "countdown_background_gradient": "linear-gradient(180deg, rgba(203, 166, 10, 1), rgba(223, 182, 8, 1) 100%)"
+          }
+        },
+        "spacer_jQtyR3": {
+          "type": "spacer",
+          "settings": {
+            "show_line_separator": false,
+            "spacing_top": 2.4,
+            "spacing_bottom": 2.4,
+            "spacer_visibility": "both",
+            "line_color": ""
+          }
+        },
+        "buttons_Gnbm6b": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t2",
+            "button_label_1": "Shop now",
+            "button_link_1": "/",
+            "button_style_1": "secondary",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": true,
+            "button_1_border_gradient": "linear-gradient(275deg, rgba(230, 240, 218, 1), rgba(35, 55, 23, 1) 100%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        }
+      },
+      "block_order": [
+        "caption_VCptqq",
+        "spacer_bnyfPh",
+        "heading_emqQPP",
+        "spacer_pnRrMj",
+        "countdown_yGBUp4",
+        "spacer_jQtyR3",
+        "buttons_Gnbm6b"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_link": "",
+        "fix_image": false,
+        "skew_images": false,
+        "stack_images_on_mobile": true,
+        "image_ratio": "custom",
+        "desktop_section_height": 500,
+        "mobile_section_height": 560,
+        "full_width": true,
+        "full_width_animate": false,
+        "desktop_content_position": "md:justify-center md:items-center",
+        "mobile_content_position": "justify-center items-center",
+        "content_max_width": "l",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "show_text_box": "off",
+        "show_text_below": false,
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "scheme-3",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "product_compare_kc3xBH": {
+      "type": "product-compare",
+      "blocks": {
+        "product_switcher_fYRxg8": {
+          "type": "product_switcher",
+          "settings": {
+            "candidate_products": [],
+            "compare_label": "",
+            "line_separator": "",
+            "top_padding": "pt-0",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "product_summary_kDJNwt": {
+          "type": "product_summary",
+          "settings": {
+            "card_image_ratio": "square",
+            "card_image_cover": false,
+            "card_image_secondary_image": true,
+            "show_product_labels": true,
+            "card_image_scale": 100,
+            "card_image_replace_background": false,
+            "card_image_background": "",
+            "swatch_enabled": true,
+            "swatch_alignment": "center",
+            "swatch_size": 1.6,
+            "swatch_limit": 6,
+            "swatch_hide_singles": false,
+            "show_title": true,
+            "show_price": true,
+            "card_title_size": "t0",
+            "card_title_weight": "bold",
+            "card_price_size": "t2",
+            "card_title_transform": "none",
+            "compare_enable_quick_add": true,
+            "compare_enable_learn_more": true,
+            "line_separator": "border-bottom",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "variants_text_jyaHAL": {
+          "type": "variants_text",
+          "settings": {
+            "text_style": "body",
+            "text_size": "t4",
+            "compare_label": "Available in",
+            "text_when_empty": "",
+            "line_separator": "border-bottom",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "type_pgepw3": {
+          "type": "type",
+          "settings": {
+            "text_style": "body",
+            "text_size": "t4",
+            "compare_label": "Type",
+            "text_when_empty": "",
+            "line_separator": "border-bottom",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "vendor_gBXfA7": {
+          "type": "vendor",
+          "settings": {
+            "text_style": "uppercase",
+            "use_link_color": false,
+            "text_size": "t7",
+            "compare_label": "Vendor",
+            "text_when_empty": "",
+            "line_separator": "border-bottom",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "description_iGjNwd": {
+          "type": "description",
+          "settings": {
+            "max_words": 0,
+            "text_style": "body",
+            "text_size": "t4",
+            "compare_label": "Description",
+            "text_when_empty": "",
+            "line_separator": "border-bottom",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "icon_QyWCHF": {
+          "type": "icon",
+          "settings": {
+            "icon": "price_tags",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "compare_label": "",
+            "line_separator": "",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-1",
+            "cell_visibility": ""
+          }
+        },
+        "product_price_i7LtmY": {
+          "type": "product_price",
+          "settings": {
+            "price_color": "#ea0707",
+            "text_size": "t3",
+            "compare_label": "",
+            "text_when_empty": "",
+            "line_separator": "border-bottom",
+            "top_padding": "pt-0",
+            "bottom_padding": "pb-2",
+            "cell_visibility": ""
+          }
+        },
+        "buttons_nKa3za": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t3",
+            "button_label_1": "Learn more",
+            "button_link_1": "",
+            "button_style_1": "link",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "compare_label": "",
+            "line_separator": "",
+            "top_padding": "pt-2",
+            "bottom_padding": "pb-0",
+            "cell_visibility": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_switcher_fYRxg8",
+        "product_summary_kDJNwt",
+        "variants_text_jyaHAL",
+        "type_pgepw3",
+        "vendor_gBXfA7",
+        "description_iGjNwd",
+        "icon_QyWCHF",
+        "product_price_i7LtmY",
+        "buttons_nKa3za"
+      ],
+      "settings": {
+        "products": [],
+        "text_when_empty": "-",
+        "compare_text_alignment": "center",
+        "label_text_size": "t3",
+        "label_text_weight": "bold",
+        "label_text_transform": "uppercase",
+        "columns_desktop": "3",
+        "columns_mobile": "1",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "left",
+        "title": "Compare<em> Products</em>",
+        "italic_convert": "accent",
+        "heading_size": "h2",
+        "text": "<p>Confused by all the options? That's where we come in...</p>",
+        "text_size": "t1",
+        "show_view_all_link": false,
+        "view_all_link": "",
+        "view_all_text": "View more",
+        "view_all_text_size": "t3",
+        "color_scheme": "scheme-1",
+        "card_color_scheme": "scheme-2",
+        "card_shadow": true,
+        "line_separator": "border-top border-bottom",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "gallery_9XYaNx": {
+      "type": "gallery",
+      "blocks": {
+        "gallery_item_AKC9id": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": true,
+            "wide": false,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-center",
+            "content_max_width": "l",
+            "image_overlay_opacity": 0,
+            "icon": "logo_instagram",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A featured post from one of our social platforms",
+            "heading_size": "h5",
+            "heading_size_custom": 2.4,
+            "text": "<p>SEPTEMBER 27th</p>",
+            "text_size": "t6",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-1"
+          }
+        },
+        "gallery_item_pwN4WU": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": true,
+            "wide": true,
+            "column_alignment": "center",
+            "text_vertical_alignment": "justify-center",
+            "content_max_width": "xs",
+            "image_overlay_opacity": 18,
+            "icon": "logo_tiktok",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A large featured post from one of our social platforms",
+            "heading_size": "h3",
+            "heading_size_custom": 2.4,
+            "text": "<p>OCTOBER 9th</p>",
+            "text_size": "t4",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-9"
+          }
+        },
+        "gallery_item_nJG3z8": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": false,
+            "wide": false,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-end",
+            "content_max_width": "xxs",
+            "image_overlay_opacity": 26,
+            "icon": "logo_facebook",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A featured post from one of our social platforms",
+            "heading_size": "h5",
+            "heading_size_custom": 2.4,
+            "text": "<p>SEPTEMBER 1ST</p>",
+            "text_size": "t6",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-5"
+          }
+        },
+        "gallery_item_MDjjXX": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": true,
+            "wide": false,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-end",
+            "content_max_width": "xxs",
+            "image_overlay_opacity": 10,
+            "icon": "logo_discord",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A featured post from one of our social platforms",
+            "heading_size": "h5",
+            "heading_size_custom": 2.4,
+            "text": "<p>AUGUST 25th</p>",
+            "text_size": "t6",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-4"
+          }
+        },
+        "gallery_item_kDjxNd": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": false,
+            "wide": true,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-start",
+            "content_max_width": "xs",
+            "image_overlay_opacity": 14,
+            "icon": "logo_twitch",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A featured post from one of our social platforms",
+            "heading_size": "h5",
+            "heading_size_custom": 2.4,
+            "text": "<p>MAY 22ND</p>",
+            "text_size": "t6",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-7"
+          }
+        },
+        "gallery_item_iHmdCi": {
+          "type": "gallery_item",
+          "settings": {
+            "tall": false,
+            "wide": false,
+            "column_alignment": "left",
+            "text_vertical_alignment": "justify-end",
+            "content_max_width": "xxs",
+            "image_overlay_opacity": 10,
+            "icon": "logo_pinterest",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "title": "A featured post from one of our social platforms",
+            "heading_size": "h5",
+            "heading_size_custom": 2.4,
+            "text": "<p>DECEMBER 20TH</p>",
+            "text_size": "t6",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-11"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_item_AKC9id",
+        "gallery_item_pwN4WU",
+        "gallery_item_nJG3z8",
+        "gallery_item_MDjjXX",
+        "gallery_item_kDjxNd",
+        "gallery_item_iHmdCi"
+      ],
+      "settings": {
+        "columns_desktop": 4,
+        "spacing_grid": 4,
+        "spacing_grid_mobile": 8,
+        "corner_rounding": "outer",
+        "content_padding": 2.7,
+        "desktop_section_height": 240,
+        "mobile_section_height": 250,
+        "mobile_layout": "carousel",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "left",
+        "title": "@<em>your</em>socials",
+        "italic_convert": "light",
+        "heading_size": "h0",
+        "text": "<p>The latest and greatest from our socials.</p>",
+        "text_size": "t1",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "section_color_scheme": "scheme-3",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s15",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "stats_NkDnXY": {
+      "type": "stats",
+      "blocks": {
+        "column_standard_NyQQaJ": {
+          "type": "column_standard",
+          "settings": {
+            "stat_caption": "Over",
+            "stat_number": "142k",
+            "title": "<em>products sold</em>",
+            "heading_size": "h4",
+            "stat_color": "#f1b726",
+            "stat_text_gradient": "linear-gradient(276deg, rgba(255, 228, 49, 1), rgba(249, 149, 32, 1) 59%)",
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "text": "",
+            "text_size": "t3",
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "image_position": "below_text",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-9",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_zWYD9r": {
+          "type": "column_standard",
+          "settings": {
+            "stat_caption": "With",
+            "stat_number": "95%",
+            "title": "<em>positive reviews</em>",
+            "heading_size": "h4",
+            "stat_color": "#e937d6",
+            "stat_text_gradient": "linear-gradient(238deg, rgba(249, 119, 255, 1) 8%, rgba(186, 54, 255, 1) 69%)",
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "text": "",
+            "text_size": "t3",
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "image_position": "below_text",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-9",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_QqUexK": {
+          "type": "column_standard",
+          "settings": {
+            "stat_caption": "Selling in",
+            "stat_number": "12",
+            "title": "<em>territories</em>",
+            "heading_size": "h4",
+            "stat_color": "#00ffff",
+            "stat_text_gradient": "linear-gradient(106deg, rgba(87, 247, 255, 1) 6%, rgba(33, 249, 239, 1) 68%)",
+            "icon": "",
+            "icon_container": "none",
+            "icon_size": 3.4,
+            "icon_color": "",
+            "icon_background_color": "#ededed",
+            "background_gradient": "",
+            "text": "",
+            "text_size": "t3",
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "image_position": "below_text",
+            "button_text_size": "t3",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "button_style_show_arrow": false,
+            "button_style_show_gradient_border": false,
+            "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "card_link": "",
+            "card_color_scheme": "scheme-9",
+            "color_scheme_bg_fix": false
+          }
+        }
+      },
+      "block_order": [
+        "column_standard_NyQQaJ",
+        "column_standard_zWYD9r",
+        "column_standard_QqUexK"
+      ],
+      "settings": {
+        "stat_animate": true,
+        "stat_caption_style": "caption-with-letter-spacing",
+        "stat_style": "text-body",
+        "heading_style": "text-body",
+        "stat_size": "custom",
+        "stat_size_custom": 5,
+        "desktop_section_height": 210,
+        "mobile_section_height": 0,
+        "column_alignment": "center",
+        "text_vertical_alignment": "justify-center",
+        "spacing_grid": 28,
+        "content_padding": 2,
+        "columns_desktop": 3,
+        "columns_desktop_scale": true,
+        "full_width_section": true,
+        "image_overlay_opacity": 0,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "center",
+        "title": "Why shop with us?",
+        "italic_convert": "",
+        "heading_size": "h1",
+        "text": "<p>You're in good hands.</p>",
+        "text_size": "t1",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "color_scheme": "scheme-9",
+        "card_shadow": false,
+        "line_separator": "border-top",
+        "top_padding": "pt-s15",
+        "bottom_padding": "pb-0",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "testimonials_KWf9if": {
+      "type": "testimonials",
+      "blocks": {
+        "column_standard_REMKB4": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>Fast shipping</strong>",
+            "heading_tag": "h3",
+            "text": "<p>Ordered a car part and it arrived the next day. Super impressed with the speed and the careful packaging.</p>",
+            "author_name": "Jordan Smith",
+            "author_caption": "Seattle, Washington",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_A6EnLr": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>Excellent service</strong>",
+            "heading_tag": "h3",
+            "text": "<p>Customer support was helpful; they resolved my issue in minutes. Really appreciated the follow-up email to ensure satisfaction.</p>",
+            "author_name": "Taylor Christos",
+            "author_caption": "Austin, Texas",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_yyjPM8": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>Great selection</strong>",
+            "heading_tag": "h3",
+            "text": "<p>Wide variety of car products from lights to badges. Found everything I needed in one place, very convenient.</p>",
+            "author_name": "Alex Williams",
+            "author_caption": "London, England",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_EmTYWr": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>Top quality</strong>",
+            "heading_tag": "h3",
+            "text": "<p>The diffuser I bought exceeded my expectations. Top-notch quality, easy to install.</p>",
+            "author_name": "Sam Davis",
+            "author_caption": "San Francisco, California",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_gJRXPk": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>Reliable store</strong>",
+            "heading_tag": "h3",
+            "text": "<p>Have ordered multiple times, always received exactly what was described. Products are genuine and fully functional.</p>",
+            "author_name": "Casey Brown",
+            "author_caption": "Denver, Colorado",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        },
+        "column_standard_E4CAzL": {
+          "type": "column_standard",
+          "settings": {
+            "image_ratio": "adapt",
+            "image_width": 100,
+            "rating_stars": 5,
+            "title": "<strong>User-friendly website</strong>",
+            "heading_tag": "h3",
+            "text": "<p>Easy to navigate and make purchases. A hassle-free shopping experience with clear descriptions and transparent pricing.</p>",
+            "author_name": "Riley Wilson",
+            "author_caption": "Boston, Massachusetts",
+            "card_link": "",
+            "card_color_scheme": "scheme-8",
+            "color_scheme_bg_fix": false
+          }
+        }
+      },
+      "block_order": [
+        "column_standard_REMKB4",
+        "column_standard_A6EnLr",
+        "column_standard_yyjPM8",
+        "column_standard_EmTYWr",
+        "column_standard_gJRXPk",
+        "column_standard_E4CAzL"
+      ],
+      "settings": {
+        "review_style": "star",
+        "rating_size": 3,
+        "heading_style": "text-body",
+        "card_heading_size": "h5",
+        "card_text_size": "t3",
+        "author_line": true,
+        "desktop_section_height": 330,
+        "mobile_section_height": 200,
+        "column_alignment": "left",
+        "text_vertical_alignment": "justify-center",
+        "content_padding": 4,
+        "desktop_layout": "carousel",
+        "mobile_layout": "carousel",
+        "columns_desktop": "3",
+        "columns_desktop_scale": true,
+        "full_width": false,
+        "image_overlay_opacity": 0,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "",
+        "heading_size": "h3",
+        "text": "",
+        "text_size": "t3",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "color_scheme": "scheme-9",
+        "star_color": "#f5e121",
+        "card_shadow": true,
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s15",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "flexible_columns_7DMcAN": {
+      "type": "flexible-columns",
+      "blocks": {
+        "layout_column_w4YDAY": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "",
+            "column_link_text": "",
+            "small_breakpoint_width": 100,
+            "medium_breakpoint_width": 30,
+            "width": 30,
+            "height_mode": "auto",
+            "min_height": 500,
+            "vertical_alignment": "self-start",
+            "sticky": true,
+            "desktop_content_alignment": "left",
+            "mobile_content_alignment": "left",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-start",
+            "content_horizontal_alignment": "justify-start",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": false,
+            "color_scheme": "",
+            "card_shadow": true,
+            "round_corners": true,
+            "padding": "p-1",
+            "custom_padding": 6,
+            "padding_desktop_only": true
+          },
+          "blocks": {
+            "heading_jTGrNt": {
+              "type": "heading",
+              "settings": {
+                "heading": "Our services",
+                "heading_italic_convert": "",
+                "heading_size": "h3",
+                "heading_size_custom": 2.4,
+                "heading_line_height_custom": 1.2,
+                "heading_tag": "h2"
+              },
+              "blocks": {}
+            },
+            "text_H9d66g": {
+              "type": "text",
+              "name": "Text",
+              "settings": {
+                "text": "<p>Whether it’s fitting, diagnostics, or a quick check up - we've got you covered. Use the form above to book your appointment.</p>",
+                "text_size": "t3"
+              },
+              "blocks": {}
+            },
+            "buttons_VVNtGH": {
+              "type": "buttons",
+              "name": "Buttons",
+              "settings": {
+                "button_text_size": "t5",
+                "button_label_1": "Our services",
+                "button_link_1": "/",
+                "button_style_1": "secondary",
+                "button_style_1_show_arrow": true,
+                "button_style_1_show_gradient_border": true,
+                "button_1_border_gradient": "linear-gradient(143deg, rgba(57, 239, 154, 1) 12%, rgba(157, 232, 255, 1) 35%, rgba(255, 87, 87, 1) 87%)",
+                "button_label_2": "",
+                "button_link_2": "",
+                "button_style_2": "secondary",
+                "button_style_2_show_arrow": false,
+                "button_style_2_show_gradient_border": false,
+                "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "heading_jTGrNt",
+            "text_H9d66g",
+            "buttons_VVNtGH"
+          ]
+        },
+        "layout_column_zFqAP6": {
+          "type": "_layout-column",
+          "settings": {
+            "column_link": "",
+            "column_link_text": "",
+            "small_breakpoint_width": 100,
+            "medium_breakpoint_width": 70,
+            "width": 70,
+            "height_mode": "auto",
+            "min_height": 500,
+            "vertical_alignment": "self-start",
+            "sticky": false,
+            "desktop_content_alignment": "left",
+            "mobile_content_alignment": "left",
+            "content_max_width": 1000,
+            "content_vertical_alignment": "items-start",
+            "content_horizontal_alignment": "justify-center",
+            "image_overlay_opacity": 0,
+            "use_color_scheme": true,
+            "color_scheme": "scheme-2",
+            "card_shadow": true,
+            "round_corners": true,
+            "padding": "p-4",
+            "custom_padding": 6,
+            "padding_desktop_only": false
+          },
+          "blocks": {
+            "layout_row_WMx6Q7": {
+              "type": "_layout-row",
+              "settings": {},
+              "blocks": {
+                "layout_column_WWrwPw": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_dLQH9E": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "sports_car",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#188f65",
+                        "icon_background_color": "#dffdef",
+                        "background_gradient": "linear-gradient(54deg, rgba(223, 253, 239, 1) 13%, rgba(196, 250, 226, 1) 85%)",
+                        "heading": "<strong>Tire Fitting</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>We’ll fit and balance your new tires while you wait - fast and hassle-free with 100 mile guarantee.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    },
+                    "spacer_yLVnKF": {
+                      "type": "spacer",
+                      "settings": {
+                        "show_line_separator": true,
+                        "spacing_top": 2.4,
+                        "spacing_bottom": 0.5,
+                        "spacer_visibility": "mobile",
+                        "line_color": ""
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_dLQH9E",
+                    "spacer_yLVnKF"
+                  ]
+                },
+                "layout_column_UkRX4H": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_yJjQqF": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "build",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#8f1818",
+                        "icon_background_color": "#fddfdf",
+                        "background_gradient": "linear-gradient(54deg, rgba(255, 235, 235, 1) 13%, rgba(249, 214, 205, 1) 85%)",
+                        "heading": "<strong>Part Installation</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>Let our experts install your parts correctly the first time — no guesswork needed.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    },
+                    "spacer_6FrAL8": {
+                      "type": "spacer",
+                      "settings": {
+                        "show_line_separator": true,
+                        "spacing_top": 2.4,
+                        "spacing_bottom": 0.5,
+                        "spacer_visibility": "mobile",
+                        "line_color": ""
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_yJjQqF",
+                    "spacer_6FrAL8"
+                  ]
+                }
+              },
+              "block_order": [
+                "layout_column_WWrwPw",
+                "layout_column_UkRX4H"
+              ]
+            },
+            "layout_row_XDFVzT": {
+              "type": "_layout-row",
+              "settings": {},
+              "blocks": {
+                "layout_column_UFxxPr": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_e3GXzt": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "options",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#187a8f",
+                        "icon_background_color": "#dff6fd",
+                        "background_gradient": "linear-gradient(54deg, rgba(223, 246, 253, 1) 12%, rgba(196, 238, 250, 1) 85%)",
+                        "heading": "<strong>Diagnostics Check</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>We’ll run a full diagnostic to find faults and recommend the right solution.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    },
+                    "spacer_QJeE7K": {
+                      "type": "spacer",
+                      "settings": {
+                        "show_line_separator": true,
+                        "spacing_top": 2.4,
+                        "spacing_bottom": 0.5,
+                        "spacer_visibility": "mobile",
+                        "line_color": ""
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_e3GXzt",
+                    "spacer_QJeE7K"
+                  ]
+                },
+                "layout_column_zpfktg": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_fFnRJF": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "construction",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#91910b",
+                        "icon_background_color": "#fffe9b",
+                        "background_gradient": "linear-gradient(54deg, rgba(252, 255, 138, 1) 12%, rgba(241, 239, 163, 1) 85%)",
+                        "heading": "<strong>Equipment Hire</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>Hire our equipment, from diagnostic tools to hoists - perfect for DIY repairs and weekend fixes.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    },
+                    "spacer_XGzrNA": {
+                      "type": "spacer",
+                      "settings": {
+                        "show_line_separator": true,
+                        "spacing_top": 2.4,
+                        "spacing_bottom": 0.5,
+                        "spacer_visibility": "mobile",
+                        "line_color": ""
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_fFnRJF",
+                    "spacer_XGzrNA"
+                  ]
+                }
+              },
+              "block_order": [
+                "layout_column_UFxxPr",
+                "layout_column_zpfktg"
+              ]
+            },
+            "layout_row_KqJVzB": {
+              "type": "_layout-row",
+              "settings": {},
+              "blocks": {
+                "layout_column_mUfHGy": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_WVAjXt": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "computer",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#6b188f",
+                        "icon_background_color": "#f2e8fc",
+                        "background_gradient": "linear-gradient(54deg, rgba(242, 232, 252, 1) 12%, rgba(238, 220, 252, 1) 85%)",
+                        "heading": "<strong>Remote Support</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>Get help diagnosing issues from home with expert guidance over a video call.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    },
+                    "spacer_X6acMm": {
+                      "type": "spacer",
+                      "settings": {
+                        "show_line_separator": true,
+                        "spacing_top": 2.4,
+                        "spacing_bottom": 0.5,
+                        "spacer_visibility": "mobile",
+                        "line_color": ""
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_WVAjXt",
+                    "spacer_X6acMm"
+                  ]
+                },
+                "layout_column_eGeeQE": {
+                  "type": "_layout-column",
+                  "settings": {
+                    "column_link": "",
+                    "column_link_text": "",
+                    "small_breakpoint_width": 100,
+                    "medium_breakpoint_width": 100,
+                    "width": 50,
+                    "height_mode": "auto",
+                    "min_height": 500,
+                    "vertical_alignment": "self-start",
+                    "sticky": false,
+                    "desktop_content_alignment": "left",
+                    "mobile_content_alignment": "left",
+                    "content_max_width": 1000,
+                    "content_vertical_alignment": "items-start",
+                    "content_horizontal_alignment": "justify-center",
+                    "image_overlay_opacity": 0,
+                    "use_color_scheme": false,
+                    "color_scheme": "",
+                    "card_shadow": true,
+                    "round_corners": true,
+                    "padding": "p-0",
+                    "custom_padding": 6,
+                    "padding_desktop_only": false
+                  },
+                  "blocks": {
+                    "icon_with_text_xKMfGb": {
+                      "type": "icon_with_text",
+                      "settings": {
+                        "icon_heading_gap": 2.5,
+                        "text_max_width": 400,
+                        "link": "",
+                        "icon": "cog",
+                        "icon_container": "rounded",
+                        "icon_size": 3,
+                        "icon_vertical_position": 0.1,
+                        "icon_color": "#b47d0c",
+                        "icon_background_color": "#fadfc4",
+                        "background_gradient": "linear-gradient(54deg, rgba(253, 240, 223, 1) 12%, rgba(250, 223, 196, 1) 85%)",
+                        "heading": "<strong>Repair</strong>",
+                        "heading_italic_convert": "",
+                        "heading_size": "h5",
+                        "heading_size_custom": 2.4,
+                        "heading_line_height_custom": 1.2,
+                        "heading_tag": "h3",
+                        "text": "<p>Bring your vehicle to our Repair Center for expert diagnostics and fast fixes.</p>",
+                        "text_size": "t3"
+                      },
+                      "blocks": {}
+                    }
+                  },
+                  "block_order": [
+                    "icon_with_text_xKMfGb"
+                  ]
+                }
+              },
+              "block_order": [
+                "layout_column_mUfHGy",
+                "layout_column_eGeeQE"
+              ]
+            }
+          },
+          "block_order": [
+            "layout_row_WMx6Q7",
+            "layout_row_XDFVzT",
+            "layout_row_KqJVzB"
+          ]
+        }
+      },
+      "block_order": [
+        "layout_column_w4YDAY",
+        "layout_column_zFqAP6"
+      ],
+      "name": "Side highlights",
+      "settings": {
+        "gap_small": 24,
+        "gap_medium": 36,
+        "gap_desktop": 44,
+        "section_max_width": "xl",
+        "use_breakpoints": true,
+        "small_breakpoint_custom": "749",
+        "medium_breakpoint_custom": "989",
+        "image_overlay_opacity": 0,
+        "content_max_width": "xl",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "",
+        "italic_convert": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_size": "t3",
+        "view_all_link": "",
+        "view_all_text": "",
+        "view_all_text_size": "t3",
+        "section_color_scheme": "",
+        "line_separator": "border-top border-bottom",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "featured_blog_QBEEC4": {
+      "type": "featured-blog",
+      "settings": {
+        "blog": "",
+        "posts_to_show": 8,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_reading_estimate": true,
+        "show_first_tag": true,
+        "excerpt_mode": "none",
+        "blog_card_featured": "",
+        "featured_excerpt_mode": "medium",
+        "desktop_layout": "carousel",
+        "mobile_layout": "carousel",
+        "columns_desktop": "4",
+        "full_width": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "left",
+        "mobile_heading_alignment": "left",
+        "title": "Latest from our <em>Blog</em>",
+        "italic_convert": "light",
+        "heading_size": "h1",
+        "text": "<p>Upgrade your ride with the best parts and expert tips.</p>",
+        "text_size": "t1",
+        "show_view_all_link": true,
+        "view_all_text": "Read blog",
+        "view_all_text_size": "t2",
+        "view_all_card_visibility": "",
+        "view_all_card_text": "Keep reading",
+        "color_scheme": "scheme-8",
+        "view_all_color_scheme": "scheme-3",
+        "line_separator": "border-top",
+        "top_padding": "pt-s15",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "heading_tag": "h2"
+      }
+    },
+    "image_with_collapsible_content_eFbMfA": {
+      "type": "image-with-collapsible-content",
+      "blocks": {
+        "collapsible_row_dXV4RA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Carbon Fiber Gear Cover",
+            "icon": "speedometer",
+            "image_width": 20,
+            "row_heading_tag": "h3",
+            "row_content": "<p>Transform your BMV's interior with the <strong>Gear Selector Cover</strong> in a stunning carbon fiber look. Designed specifically for the F Series, this cover not only enhances the visual appeal of your gear selector but also provides a comfortable grip for seamless shifting.</p>",
+            "page": "",
+            "button_text_size": "t3",
+            "button_label_1": "Show me",
+            "button_link_1": "",
+            "button_style_1": "link",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        },
+        "collapsible_row_Ha46Lm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Carbon Fiber Paddle Shifters",
+            "icon": "sports_car",
+            "image_width": 20,
+            "row_heading_tag": "h3",
+            "row_content": "<p>Upgrade your driving experience with the <strong>Carbon Fiber Paddle Shifters</strong> for BMV F and G Series. Designed for both style and functionality, these paddle shifters add a sleek look to your vehicle's interior while providing an excellent grip for seamless shifting.</p>",
+            "page": "",
+            "button_text_size": "t3",
+            "button_label_1": "Show me",
+            "button_link_1": "",
+            "button_style_1": "link",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        },
+        "collapsible_row_6DhWQi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Center Console Switches",
+            "icon": "power",
+            "image_width": 20,
+            "row_heading_tag": "h3",
+            "row_content": "<p>Designed for seamless integration with your vehicle’s interior. These high-quality switches offer enhanced functionality, improved durability, and a factory-style fit for a refined driving experience.</p>",
+            "page": "",
+            "button_text_size": "t3",
+            "button_label_1": "Show me",
+            "button_link_1": "",
+            "button_style_1": "link",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_dXV4RA",
+        "collapsible_row_Ha46Lm",
+        "collapsible_row_6DhWQi"
+      ],
+      "settings": {
+        "show_line_separator": true,
+        "row_heading_size": "t1",
+        "row_text_size": "t3",
+        "image_overlay_opacity": 0,
+        "desktop_section_height": 620,
+        "mobile_section_height": 280,
+        "desktop_media_width": 50,
+        "layout": "text_first",
+        "content_layout": "overlap",
+        "show_header_beside": false,
+        "content_max_width": "m",
+        "desktop_heading_alignment": "center",
+        "mobile_heading_alignment": "left",
+        "desktop_content_position": "md:justify-start md:items-end",
+        "mobile_content_position": "justify-center items-center",
+        "title": "Staff favorites...",
+        "italic_convert": "",
+        "heading_size": "h1",
+        "text": "<p>Top picks from the folks in the office.</p>",
+        "text_size": "t1",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "secondary",
+        "button_text_size": "t5",
+        "button_style_show_arrow": true,
+        "button_style_show_gradient_border": false,
+        "button_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_overlay_color_scheme": "",
+        "show_content_shadow": true,
+        "line_separator": "border-top",
+        "top_padding": "pt-s15",
+        "bottom_padding": "pb-s15",
+        "heading_tag": "h3",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "video_with_text_kGELRV": {
+      "type": "video-with-text",
+      "blocks": {
+        "caption_HjBpKa": {
+          "type": "caption",
+          "settings": {
+            "caption": "A stitch in time",
+            "caption_text_style": "caption-with-letter-spacing",
+            "caption_text_size": "t6"
+          }
+        },
+        "heading_rTwJGb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Interior cleaning hacks you need to try today",
+            "heading_italic_convert": "accent",
+            "heading_size": "h2",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "text_Jy7pRN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Simple and effective tricks using household items to keep your car interior spotless.</p>",
+            "text_size": "t1"
+          }
+        },
+        "buttons_mgfUpG": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t3",
+            "button_label_1": "Read more",
+            "button_link_1": "",
+            "button_style_1": "primary",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        }
+      },
+      "block_order": [
+        "caption_HjBpKa",
+        "heading_rTwJGb",
+        "text_Jy7pRN",
+        "buttons_mgfUpG"
+      ],
+      "settings": {
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_video_autoplay": true,
+        "controls_position": "bottom_right",
+        "playback_controls": "custom",
+        "playback_end": "loop",
+        "video_cover": true,
+        "video_aspect_ratio": "1.77",
+        "desktop_section_height": 500,
+        "mobile_section_height": 400,
+        "desktop_media_width": 50,
+        "desktop_media_scale": 100,
+        "layout": "media_first",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "text_max_width": "xs",
+        "content_layout": "no-overlap-separate",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "show_content_shadow": false,
+        "line_separator": "",
+        "top_padding": "pt-0",
+        "bottom_padding": "pb-s15",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "lazy_load": true
+      }
+    },
+    "newsletter_Hf3xhq": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_iinqaj": {
+          "type": "heading",
+          "settings": {
+            "visibility": "always",
+            "heading": "<strong>Join Our Newsletter!</strong>",
+            "heading_italic_convert": "accent",
+            "heading_size": "h2",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "text_PmHG7M": {
+          "type": "text",
+          "settings": {
+            "visibility": "always",
+            "text": "<p>Sign up for updates, tips, and exclusive offers on top-quality car parts. Stay informed with the latest deals to keep your ride running smoothly!</p>",
+            "text_size": "t4"
+          }
+        },
+        "email_form_aRLUdQ": {
+          "type": "email_form",
+          "settings": {
+            "visibility": "always"
+          }
+        },
+        "caption_e69BjF": {
+          "type": "caption",
+          "settings": {
+            "visibility": "always",
+            "caption": "No SPAM, ever.",
+            "caption_text_style": "caption-with-letter-spacing",
+            "caption_text_size": "t7"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iinqaj",
+        "text_PmHG7M",
+        "email_form_aRLUdQ",
+        "caption_e69BjF"
+      ],
+      "settings": {
+        "preview_success": false,
+        "show_image": true,
+        "image_overlay_opacity": 0,
+        "fix_image": false,
+        "image_ratio": "custom",
+        "desktop_section_height": 680,
+        "mobile_section_height": 420,
+        "full_width": true,
+        "desktop_content_position": "md:justify-start md:items-start",
+        "mobile_content_position": "justify-center items-center",
+        "content_max_width": "xs",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "show_text_box": "off",
+        "show_text_below": false,
+        "color_scheme": "scheme-2",
+        "container_color_scheme": "scheme-8",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "ribbon_banner_GLgrEp": {
+      "type": "ribbon-banner",
+      "blocks": {
+        "heading_zgGV4G": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>SAVE 20% OFF ORDERS $100+</strong></em>",
+            "heading_italic_convert": "accent",
+            "heading_size": "h4",
+            "heading_size_custom": 2.4,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "text_PkGVkL": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Online only.</strong></p>",
+            "text_size": "t4",
+            "content_max_width": "m"
+          }
+        },
+        "discount_J6qnnU": {
+          "type": "discount",
+          "settings": {
+            "discount_code": "EXAMPLE10",
+            "text_size": "t6",
+            "discount_gated": true,
+            "color_peel_background": "#d8d8d8",
+            "color_peel_foreground": "#160f0b"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zgGV4G",
+        "text_PkGVkL",
+        "discount_J6qnnU"
+      ],
+      "settings": {
+        "full_width": true,
+        "closable": true,
+        "content_alignment": "justify-center",
+        "vertical_padding": 1.4,
+        "horizontal_padding": 3.5,
+        "spacing_grid": 3,
+        "image_overlay_opacity": 0,
+        "color_scheme": "",
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "desktop",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true
+      }
+    },
+    "video_banner_r9KbGg": {
+      "type": "video-banner",
+      "blocks": {
+        "heading_c9VxbN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn about us, and just how far we've come.",
+            "heading_italic_convert": "accent",
+            "heading_size": "custom",
+            "heading_size_custom": 3,
+            "heading_line_height_custom": 1.2,
+            "heading_tag": "h2"
+          }
+        },
+        "buttons_bimeNU": {
+          "type": "buttons",
+          "settings": {
+            "button_text_size": "t3",
+            "button_label_1": "About Us",
+            "button_link_1": "",
+            "button_style_1": "secondary",
+            "button_style_1_show_arrow": true,
+            "button_style_1_show_gradient_border": false,
+            "button_1_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)",
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_2": "secondary",
+            "button_style_2_show_arrow": false,
+            "button_style_2_show_gradient_border": false,
+            "button_2_border_gradient": "linear-gradient(136deg, rgba(10, 234, 237, 1) 11%, rgba(250, 13, 253, 1) 84%)"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c9VxbN",
+        "buttons_bimeNU"
+      ],
+      "settings": {
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "show_play_pause": true,
+        "reveal_content_timer": 4,
+        "playback_end": "loop",
+        "section_ratio": "custom",
+        "desktop_section_height": 630,
+        "mobile_section_height": 480,
+        "full_width": false,
+        "full_width_animate": false,
+        "desktop_content_position": "md:justify-start md:items-end",
+        "mobile_content_position": "justify-center items-center",
+        "content_max_width": "s",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "show_text_box": "off",
+        "show_text_below": false,
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "scheme-6",
+        "color_overlay": "#050505",
+        "video_overlay_opacity": 12,
+        "line_separator": "border-top",
+        "top_padding": "pt-s15",
+        "bottom_padding": "pb-s15",
+        "visibility": "",
+        "hide_when_empty": false,
+        "show_at_specific_time_of_day": false,
+        "show_time_morning": true,
+        "show_time_afternoon": true,
+        "show_time_evening": true,
+        "show_time_night": true,
+        "lazy_load": true,
+        "heading_tag": "h2",
+        "description": "",
+        "video_aspect_ratio": "1.77"
+      }
+    }
+  },
+  "order": [
+    "quick_filter_ggbRjG",
+    "quick_filter_38EwTz",
+    "multicolumn_ybzU9y",
+    "contact_form_UV8Apg",
+    "gallery_NLQmNA",
+    "image_banner_yVBpky",
+    "scrolling_text_9ymWCM",
+    "section_tabs_iNHzGa",
+    "featured_collection_PCNhTz",
+    "featured_collection_7niAy6",
+    "rich_text_N3Jm4R",
+    "image_hotspots_nL3JUE",
+    "flexible_columns_NPKQNp",
+    "image_banner_CR7kcX",
+    "product_compare_kc3xBH",
+    "gallery_9XYaNx",
+    "stats_NkDnXY",
+    "testimonials_KWf9if",
+    "flexible_columns_7DMcAN",
+    "featured_blog_QBEEC4",
+    "image_with_collapsible_content_eFbMfA",
+    "video_with_text_kGELRV",
+    "newsletter_Hf3xhq",
+    "ribbon_banner_GLgrEp",
+    "video_banner_r9KbGg"
+  ]
+}

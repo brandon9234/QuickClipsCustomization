@@ -1,0 +1,128 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Header",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "<strong>UP TO 30% OFF OVER </strong>25,000 PARTS! <a href=\"/collections\" title=\"All collections\">SHOP NOW</a>",
+            "mobile_text": "",
+            "announcement_pages": "",
+            "color_scheme": "scheme-5"
+          }
+        },
+        "01f1744f-4bdc-4966-8eb5-a7fdf375e9a5": {
+          "type": "announcement",
+          "settings": {
+            "text": "BOOK YOUR <strong>FREE</strong> REMOTE DIAGNOSTIC SUPPORT <a href=\"/\" title=\"Our services\">LEARN MORE</a>",
+            "mobile_text": "<strong>FREE</strong> REMOTE DIAGNOSTIC SUPPORT <a href=\"/\" title=\"Our services\">LEARN MORE</a>",
+            "announcement_pages": "",
+            "color_scheme": "scheme-11"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "01f1744f-4bdc-4966-8eb5-a7fdf375e9a5"
+      ],
+      "settings": {
+        "text_size": "t6",
+        "change_slides_speed": 6,
+        "enable_accounts": true,
+        "link_1_icon": "search",
+        "link_1_label": "Part Finder 3000™",
+        "link_1_url": "",
+        "link_2_icon": "",
+        "link_2_label": "",
+        "link_2_url": "",
+        "enable_country_selector": true,
+        "show_country_filter": false,
+        "enable_language_selector": true,
+        "text_padding": 0.7,
+        "show_line_separator": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "sticky_header_type": "always",
+        "drawer_on_desktop": "off",
+        "logo_position": "top-left",
+        "center_menu_links": true,
+        "enable_accounts": true,
+        "enable_accounts_mobile": false,
+        "search": "bar",
+        "search_size": "large",
+        "search_mobile_open": true,
+        "search_placeholder": "Search by make, model, or part number...",
+        "search_placeholder_2": "Search for tires...",
+        "search_placeholder_3": "Search for mirrors & covers...",
+        "search_placeholder_4": "Search for lighting...",
+        "logo": "shopify://shop_images/Dark_Green_Logo.png",
+        "logo_width": 240,
+        "mobile_logo_width": 135,
+        "mobile_logo_position": "center",
+        "logo_strap": "",
+        "logo_strap_text_size": "t6",
+        "menu": "main-menu",
+        "text_size": "t5",
+        "text_weight": "bold",
+        "link_headers_third_level": true,
+        "line_separator": "",
+        "mega_menu_link_label": "",
+        "mega_menu_link_enabled": true,
+        "menu_burger": "main-menu",
+        "link_headers_second_level": true,
+        "drawer_show_login": true,
+        "secondary_links_threshold": 7,
+        "drawer_text_size": "1.4",
+        "drawer_icon_1": "home",
+        "drawer_icon_2": "layers",
+        "drawer_icon_3": "sports_car",
+        "drawer_icon_4": "build",
+        "drawer_icon_5": "search",
+        "drawer_icon_6": "apps",
+        "drawer_icon_7": "price_tags",
+        "drawer_icon_8": "",
+        "drawer_icon_9": "",
+        "drawer_icon_10": "",
+        "cta_enable": true,
+        "cta_icon": "sports_car",
+        "cta_icon_size": 3.4,
+        "cta_heading": "SELECT YOUR VEHICLE",
+        "cta_label": "Car parts, simplified.",
+        "cta_url": "",
+        "cta_text_size": "t7",
+        "custom_icon": "chat_bubbles",
+        "custom_icon_url": "",
+        "custom_icon_label": "Get in touch",
+        "color_scheme": "scheme-8",
+        "menu_color_scheme": "scheme-9",
+        "dropdown_menu_color_scheme": "scheme-8",
+        "cta_color_scheme": "scheme-8",
+        "search_bar_color_scheme": "scheme-9",
+        "enable_country_selector": true,
+        "show_country_filter": false,
+        "enable_language_selector": true,
+        "spacing": 1.6,
+        "let_it_snow": false
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -3422,65 +3422,6 @@
         "show_time_night": true
       }
     },
-    "ribbon_banner_GLgrEp": {
-      "type": "ribbon-banner",
-      "blocks": {
-        "heading_zgGV4G": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>SAVE 20% OFF ORDERS $100+</strong></em>",
-            "heading_italic_convert": "accent",
-            "heading_size": "h4",
-            "heading_size_custom": 2.4,
-            "heading_line_height_custom": 1.2,
-            "heading_tag": "h2"
-          }
-        },
-        "text_PkGVkL": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Online only.</strong></p>",
-            "text_size": "t4",
-            "content_max_width": "m"
-          }
-        },
-        "discount_J6qnnU": {
-          "type": "discount",
-          "settings": {
-            "discount_code": "EXAMPLE10",
-            "text_size": "t6",
-            "discount_gated": true,
-            "color_peel_background": "#d8d8d8",
-            "color_peel_foreground": "#160f0b"
-          }
-        }
-      },
-      "block_order": [
-        "heading_zgGV4G",
-        "text_PkGVkL",
-        "discount_J6qnnU"
-      ],
-      "settings": {
-        "full_width": true,
-        "closable": true,
-        "content_alignment": "justify-center",
-        "vertical_padding": 1.4,
-        "horizontal_padding": 3.5,
-        "spacing_grid": 3,
-        "image_overlay_opacity": 0,
-        "color_scheme": "",
-        "line_separator": "",
-        "top_padding": "pt-s",
-        "bottom_padding": "pb-s",
-        "visibility": "desktop",
-        "hide_when_empty": false,
-        "show_at_specific_time_of_day": false,
-        "show_time_morning": true,
-        "show_time_afternoon": true,
-        "show_time_evening": true,
-        "show_time_night": true
-      }
-    },
     "video_banner_r9KbGg": {
       "type": "video-banner",
       "blocks": {
@@ -3554,11 +3495,37 @@
         "description": "",
         "video_aspect_ratio": "1.77"
       }
+    },
+    "custom_nameplate_listing_k9A3nW": {
+      "type": "custom-nameplate-listing",
+      "settings": {
+        "badge": "Personalized gift",
+        "title": "Personalized Acrylic Desk Name Plate - Sunflower Design",
+        "subtitle": "Custom name + title",
+        "price": "$34.99",
+        "description": "<p>A custom clear acrylic desk sign with sunflower artwork, personalized with any name and job title, complete with a wooden stand and gift-ready presentation.</p><ul><li>Personalized with your name and optional title</li><li>Premium clear acrylic plate with vivid floral print</li><li>Solid wood stand included</li><li>Gift-ready packaging included</li></ul>",
+        "button_label": "Shop now",
+        "button_link": "",
+        "product_image": "",
+        "image_alt": "Personalized acrylic desk name plate with sunflower accents",
+        "thumb_image_1": "",
+        "thumb_image_2": "",
+        "thumb_image_3": "",
+        "section_color_scheme": "scheme-1",
+        "card_color_scheme": "scheme-2",
+        "show_card_shadow": true,
+        "line_separator": "border-top",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false
+      }
     }
   },
   "order": [
     "quick_filter_ggbRjG",
     "quick_filter_38EwTz",
+    "custom_nameplate_listing_k9A3nW",
     "multicolumn_ybzU9y",
     "contact_form_UV8Apg",
     "gallery_NLQmNA",
@@ -3580,7 +3547,6 @@
     "image_with_collapsible_content_eFbMfA",
     "video_with_text_kGELRV",
     "newsletter_Hf3xhq",
-    "ribbon_banner_GLgrEp",
     "video_banner_r9KbGg"
   ]
 }

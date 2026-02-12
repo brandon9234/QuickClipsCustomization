@@ -200,6 +200,31 @@
         "hide_when_empty": false
       }
     },
+    "custom_nameplate_listing_collections_all": {
+      "type": "custom-nameplate-listing",
+      "settings": {
+        "badge": "Personalized gift",
+        "title": "Personalized Acrylic Desk Name Plate - Sunflower Design",
+        "subtitle": "Custom name + title",
+        "price": "$34.99",
+        "description": "<p>A custom clear acrylic desk sign with sunflower artwork, personalized with any name and job title, complete with a wooden stand and gift-ready presentation.</p><ul><li>Personalized with your name and optional title</li><li>Premium clear acrylic plate with vivid floral print</li><li>Solid wood stand included</li><li>Gift-ready packaging included</li></ul>",
+        "button_label": "Shop now",
+        "button_link": "",
+        "product_image": "",
+        "image_alt": "Personalized acrylic desk name plate with sunflower accents",
+        "thumb_image_1": "",
+        "thumb_image_2": "",
+        "thumb_image_3": "",
+        "section_color_scheme": "scheme-1",
+        "card_color_scheme": "scheme-2",
+        "show_card_shadow": true,
+        "line_separator": "",
+        "top_padding": "pt-s",
+        "bottom_padding": "pb-s",
+        "visibility": "",
+        "hide_when_empty": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "blocks": {
@@ -670,6 +695,7 @@
     "banner",
     "banner-split",
     "quick_filter_Jj9xiL",
+    "custom_nameplate_listing_collections_all",
     "product-grid",
     "spacer_KDamdW",
     "rich_text_eWHqW4",

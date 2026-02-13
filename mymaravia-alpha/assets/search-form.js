@@ -7,7 +7,7 @@ class SearchForm extends HTMLElement {
     if (this.input) {
       this.input.form.addEventListener('reset', this.onFormReset.bind(this));
 
-      if ((this.input.dataset.secondPlaceholder || this.input.dataset.thirdPlaceholder || this.input.dataset.fourthPlaceholder)
+      if ((this.input.dataset.placeholderList || this.input.dataset.secondPlaceholder || this.input.dataset.thirdPlaceholder || this.input.dataset.fourthPlaceholder)
         && (this.input.dataset.animatedPlaceholderMob === 'true' || !window.matchMedia('(max-width: 749.98px)').matches)) {
         this.typewriter();
       }
@@ -34,13 +34,21 @@ class SearchForm extends HTMLElement {
   async typewriter() {
     const typingSpeed = 40;
 
-    // Collect available placeholder strings
-    const placeholders = [
-      this.input.placeholder,
-      this.input.dataset.secondPlaceholder,
-      this.input.dataset.thirdPlaceholder,
-      this.input.dataset.fourthPlaceholder,
-    ].filter(Boolean);
+    const placeholdersFromList = (this.input.dataset.placeholderList || '')
+      .split('||')
+      .map((item) => item.trim())
+      .filter(Boolean);
+
+    // Collect available placeholder strings (prefer full list if provided)
+    const placeholders = (placeholdersFromList.length > 0
+      ? placeholdersFromList
+      : [
+        this.input.placeholder,
+        this.input.dataset.secondPlaceholder,
+        this.input.dataset.thirdPlaceholder,
+        this.input.dataset.fourthPlaceholder,
+      ].filter(Boolean)
+    ).filter((value, idx, arr) => arr.indexOf(value) === idx);
 
     if (placeholders.length === 0) return;
 

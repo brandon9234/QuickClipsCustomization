@@ -1,0 +1,80 @@
+/* My Maravia brand system overrides. */
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan:wght@500;600&family=Young+Serif&display=swap");
+
+:root {
+  /* Brand palette */
+  --mm-color-charcoal: #2b2b2b;
+  --mm-color-forest: #233717;
+  --mm-color-sage: #93a676;
+  --mm-color-light-sage: #b7cf9b;
+  --mm-color-earth: #9c6c49;
+  --mm-color-cream: #fbf8f5;
+
+  /* Very slightly rounded corners (organic rectangle direction). */
+  --text-boxes-radius: 8px;
+  --media-radius: 8px;
+  --buttons-radius: 8px;
+  --inputs-radius: 8px;
+  --panel-corner-radius: 8px;
+  --controls-corner-radius: 8px;
+  --popup-corner-radius: 8px;
+  --promo-corner-radius: 8px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h0,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  font-family: "Kodchasan", "Trebuchet MS", sans-serif;
+  font-weight: 500;
+}
+
+.badge,
+.caption-with-letter-spacing,
+.predictive-search__heading,
+.announcement-bar,
+.rte blockquote {
+  font-family: "Young Serif", Georgia, serif;
+}
+
+a,
+.link,
+.rte a {
+  color: var(--mm-color-forest);
+}
+
+.button,
+.button.button--primary,
+button.button--primary {
+  background: var(--mm-color-forest);
+  border-color: var(--mm-color-forest);
+  color: #ffffff;
+}
+
+.button:hover,
+.button.button--primary:hover,
+button.button--primary:hover {
+  background: var(--mm-color-charcoal);
+  border-color: var(--mm-color-charcoal);
+}
+
+.button.button--secondary,
+button.button--secondary {
+  color: var(--mm-color-forest);
+}
+
+.card,
+.panel,
+.drawer,
+.popover,
+.predictive-search {
+  border-radius: 8px;
+}

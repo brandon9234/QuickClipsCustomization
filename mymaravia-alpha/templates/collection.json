@@ -202,6 +202,40 @@
     },
     "custom_nameplate_listing_collections_all": {
       "type": "custom-nameplate-listing",
+      "blocks": {
+        "product_orchid_col_a1f3": {
+          "type": "product",
+          "settings": {
+            "product_image": "",
+            "image_alt": "Personalized acrylic desk name plate with pink orchid floral design",
+            "badge": "New design",
+            "title": "Personalized Acrylic Desk Name Plate - Orchid Bloom",
+            "subtitle": "Dr. Erin Miller - Psychologist",
+            "price": "$39.99",
+            "description": "<p>Bright orchid wrap design on a premium acrylic block with custom name and title engraving style.</p>",
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        },
+        "product_classic_col_b7q2": {
+          "type": "product",
+          "settings": {
+            "product_image": "",
+            "image_alt": "Minimal frosted personalized desk name plate with wood stand",
+            "badge": "Best seller",
+            "title": "Personalized Desk Name Plate - Classic White",
+            "subtitle": "Stephanie Brittain - Case Manager",
+            "price": "$34.99",
+            "description": "<p>Clean minimalist style with elegant script text on frosted acrylic and a natural wood stand.</p>",
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_orchid_col_a1f3",
+        "product_classic_col_b7q2"
+      ],
       "settings": {
         "badge": "Personalized gift",
         "title": "Personalized Acrylic Desk Name Plate - Sunflower Design",

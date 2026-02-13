@@ -3776,6 +3776,72 @@
           "default": true,
           "label": "Show in-store pickup availability",
           "info": "Store pickup needs to be set up in the admin area. [Learn more](https://help.shopify.com/en/manual/fulfillment/setup/delivery-methods/pickup-in-store)"
+        },
+        {
+          "type": "header",
+          "content": "Template picker"
+        },
+        {
+          "type": "checkbox",
+          "id": "enable_design_template_picker",
+          "default": true,
+          "label": "Enable template and design picker"
+        },
+        {
+          "type": "checkbox",
+          "id": "require_design_selection",
+          "default": true,
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Require a design selection before add to cart"
+        },
+        {
+          "type": "text",
+          "id": "template_picker_heading",
+          "default": "Choose a template",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Template heading"
+        },
+        {
+          "type": "text",
+          "id": "design_picker_heading",
+          "default": "Choose a design",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Design heading"
+        },
+        {
+          "type": "text",
+          "id": "template_select_label",
+          "default": "All templates",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Template dropdown default label"
+        },
+        {
+          "type": "text",
+          "id": "template_picker_help",
+          "default": "Tip: set product image alt text as Template|Design to group designs (example: Floral|Orchid Bloom).",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Helper text"
+        },
+        {
+          "type": "text",
+          "id": "template_property_label",
+          "default": "Template",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Cart property label for template"
+        },
+        {
+          "type": "text",
+          "id": "design_property_label",
+          "default": "Design",
+          "visible_if": "{{ block.settings.enable_design_template_picker }}",
+          "label": "Cart property label for design"
+        },
+        {
+          "type": "text",
+          "id": "design_required_error",
+          "default": "Please choose a design before adding to cart.",
+          "visible_if": "{{ block.settings.enable_design_template_picker and block.settings.require_design_selection }}",
+          "label": "Required error message"
         }
       ]
     },

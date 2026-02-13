@@ -1,4 +1,4 @@
-class AnimatedList extends HTMLElement {
+8class AnimatedList extends HTMLElement {
   constructor() {
     super();
     this.autoplaySpeed = parseInt(getComputedStyle(this).getPropertyValue('--al-autoplay-speed'), 10) || 3000;

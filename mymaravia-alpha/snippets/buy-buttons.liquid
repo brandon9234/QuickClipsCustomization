@@ -35,7 +35,18 @@
           assign money_price = price | money
         endif
       endif
+
+      assign design_picker_images = product.media | where: 'media_type', 'image'
+      assign template_picker_enabled = false
+      if block.settings.enable_design_template_picker and design_picker_images.size > 0
+        assign template_picker_enabled = true
+      endif
     -%}
+
+    {%- if template_picker_enabled -%}
+      <link rel="stylesheet" href="{{ 'component-template-picker.css' | asset_url }}" media="print" onload="this.media='all'">
+      <lazy-script src="{{ 'design-template-picker.js' | asset_url }}" defer="defer"></lazy-script>
+    {%- endif -%}
 
     <product-form
       class="product-form"
@@ -69,6 +80,103 @@
 
         {%- if gift_card_recipient_feature_active -%}
           {%- render 'gift-card-recipient-form', product: product, form: form, section: section -%}
+        {%- endif -%}
+
+        {%- if template_picker_enabled -%}
+          {%- liquid
+            assign template_property_label = block.settings.template_property_label | strip
+            if template_property_label == blank
+              assign template_property_label = 'Template'
+            endif
+
+            assign design_property_label = block.settings.design_property_label | strip
+            if design_property_label == blank
+              assign design_property_label = 'Design'
+            endif
+
+            assign picker_error_text = block.settings.design_required_error | default: 'Please choose a design before adding to cart.'
+          -%}
+
+          <div
+            class="product-template-picker mb-2"
+            data-template-picker
+            data-required="{{ block.settings.require_design_selection }}"
+          >
+            <div class="product-form__input mb-1">
+              <label class="variant-form__label mb-1" for="TemplateSelect-{{ section.id }}">
+                {{ block.settings.template_picker_heading | default: 'Choose a template' }}
+              </label>
+              <div class="select relative">
+                <select
+                  id="TemplateSelect-{{ section.id }}"
+                  class="select__select"
+                  data-template-select
+                >
+                  <option value="all">{{ block.settings.template_select_label | default: 'All templates' }}</option>
+                </select>
+                {%- render 'icon-caret' -%}
+              </div>
+              {%- if block.settings.template_picker_help != blank -%}
+                <p class="t6 mt-1 mb-0">{{ block.settings.template_picker_help }}</p>
+              {%- endif -%}
+              <input type="hidden" form="{{ product_form_id }}" name="properties[{{ template_property_label | escape }}]" data-template-input>
+            </div>
+
+            <div class="product-form__input">
+              <p class="variant-form__label mb-1">{{ block.settings.design_picker_heading | default: 'Choose a design' }}</p>
+              <input type="hidden" form="{{ product_form_id }}" name="properties[{{ design_property_label | escape }}]" data-design-input>
+              <div class="template-design-grid" data-design-grid>
+                {%- for media in design_picker_images -%}
+                  {%- liquid
+                    assign raw_alt = media.alt | default: ''
+                    assign template_name = 'Standard'
+                    assign design_name = 'Design ' | append: forloop.index
+                    if raw_alt != blank
+                      if raw_alt contains '|'
+                        assign alt_parts = raw_alt | split: '|'
+                        assign template_name = alt_parts[0] | strip
+                        assign design_name = alt_parts[1] | default: alt_parts[0] | strip
+                      else
+                        assign design_name = raw_alt | strip
+                      endif
+                    endif
+                    if template_name == blank
+                      assign template_name = 'Standard'
+                    endif
+                    if design_name == blank
+                      assign design_name = 'Design ' | append: forloop.index
+                    endif
+                  -%}
+                  <button
+                    type="button"
+                    class="template-design-card {% if forloop.first %}is-active{% endif %}"
+                    data-design-option
+                    data-template="{{ template_name | escape }}"
+                    data-design="{{ design_name | escape }}"
+                    aria-pressed="{% if forloop.first %}true{% else %}false{% endif %}"
+                  >
+                    <span class="template-design-card__image-wrap">
+                      {{
+                        media
+                        | image_url: width: 520
+                        | image_tag:
+                          loading: 'lazy',
+                          widths: '180, 260, 360, 520',
+                          sizes: '(min-width: 990px) 16vw, 33vw',
+                          class: 'template-design-card__image',
+                          alt: design_name
+                      }}
+                    </span>
+                    <span class="template-design-card__meta">
+                      <span class="template-design-card__template">{{ template_name }}</span>
+                      <span class="template-design-card__name">{{ design_name }}</span>
+                    </span>
+                  </button>
+                {%- endfor -%}
+              </div>
+              <p class="product-template-picker__error t6 mt-1 mb-0 hidden" data-template-error>{{ picker_error_text }}</p>
+            </div>
+          </div>
         {%- endif -%}
 
         <div class="product-form__buttons" style="--font-button-case: {{ block.settings.button_text_transform }};--font-button-font-weight: {{ block.settings.button_text_font_weight }};">

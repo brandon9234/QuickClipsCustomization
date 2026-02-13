@@ -549,6 +549,8 @@
       <link rel="stylesheet" href="{{ 'standard.css' | asset_url }}" media="print" onload="this.media='all'">
     {%- endif -%}
 
+    {{ 'my-maravia-brand.css' | asset_url | stylesheet_tag }}
+
     {%- if localization.available_countries.size > 1 or localization.available_languages.size > 1 -%}
       <link rel="stylesheet" href="{{ 'component-localization-form.css' | asset_url }}" media="print" onload="this.media='all'">
       <lazy-script data-watch-element="localization-form" src="{{ 'localization-form.js' | asset_url }}" defer="defer"></lazy-script>

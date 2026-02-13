@@ -3498,12 +3498,46 @@
     },
     "custom_nameplate_listing_k9A3nW": {
       "type": "custom-nameplate-listing",
+      "blocks": {
+        "product_floral_trio_p4x1": {
+          "type": "product",
+          "settings": {
+            "product_image": "",
+            "image_alt": "Three floral personalized acrylic desk name plates in blue and green botanical styles",
+            "badge": "Featured",
+            "title": "Personalized Acrylic Desk Name Plate - Floral Trio",
+            "subtitle": "Botanical Collection",
+            "price": "$39.99",
+            "description": "<p>Elegant floral acrylic name plates with full-wrap edge printing. Perfect for office desks and gift-ready personalization.</p>",
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        },
+        "product_led_glow_m9t3": {
+          "type": "product",
+          "settings": {
+            "product_image": "",
+            "image_alt": "LED illuminated acrylic name plate on wooden light base",
+            "badge": "New arrival",
+            "title": "Personalized LED Acrylic Name Plate",
+            "subtitle": "Jessica Anderson - HR Manager",
+            "price": "$44.99",
+            "description": "<p>Edge-lit acrylic sign with warm wooden base. A modern premium desk centerpiece with custom name and title.</p>",
+            "button_label": "Shop now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_floral_trio_p4x1",
+        "product_led_glow_m9t3"
+      ],
       "settings": {
-        "badge": "Personalized gift",
-        "title": "Personalized Acrylic Desk Name Plate - Sunflower Design",
-        "subtitle": "Custom name + title",
-        "price": "$34.99",
-        "description": "<p>A custom clear acrylic desk sign with sunflower artwork, personalized with any name and job title, complete with a wooden stand and gift-ready presentation.</p><ul><li>Personalized with your name and optional title</li><li>Premium clear acrylic plate with vivid floral print</li><li>Solid wood stand included</li><li>Gift-ready packaging included</li></ul>",
+        "badge": "Top picks",
+        "title": "Personalized Acrylic Desk Name Plate - Sunflower Classic",
+        "subtitle": "Kayla Richards - Civil Engineer",
+        "price": "$39.99",
+        "description": "<p>Best-selling sunflower design on crystal-clear acrylic with a handcrafted wood stand. Personalized name and title included.</p>",
         "button_label": "Shop now",
         "button_link": "",
         "product_image": "",
@@ -3523,9 +3557,9 @@
     }
   },
   "order": [
+    "custom_nameplate_listing_k9A3nW",
     "quick_filter_ggbRjG",
     "quick_filter_38EwTz",
-    "custom_nameplate_listing_k9A3nW",
     "multicolumn_ybzU9y",
     "contact_form_UV8Apg",
     "gallery_NLQmNA",

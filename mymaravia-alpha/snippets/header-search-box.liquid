@@ -63,6 +63,9 @@
     -%}
 
     <div class="field border-radius-input color-{{ section.settings.search_bar_color_scheme }} gradient{% if section.settings.search_bar_color_scheme == section.settings.color_scheme or is_super_bright or section.settings.search == 'icon' %} field--matching-color-scheme{% else %} field--diff-color-scheme{% endif %}">
+      {%- liquid
+        assign search_placeholder_list_attr = section.settings.search_placeholder_list | newline_to_br | strip_newlines | replace: '<br />', '||' | replace: '<br/>', '||' | strip
+      -%}
       {%- if settings.show_search_types and shop.types -%}
         <label for="{{ input_id }}_header-product-type" class="visually-hidden">{{ 'general.search.product_type' | t }}</label>
         <div class="select flex items-center">
@@ -88,6 +91,7 @@
         {% if section.settings.search_placeholder_2 %}data-second-placeholder="{{ section.settings.search_placeholder_2 }}"{% endif %}
         {% if section.settings.search_placeholder_3 %}data-third-placeholder="{{ section.settings.search_placeholder_3 }}"{% endif %}
         {% if section.settings.search_placeholder_4 %}data-fourth-placeholder="{{ section.settings.search_placeholder_4 }}"{% endif %}
+        {% if search_placeholder_list_attr != blank %}data-placeholder-list="{{ search_placeholder_list_attr | escape }}"{% endif %}
         data-animated-placeholder-mob="true"
 
         {% if settings.predictive_search_enabled %}

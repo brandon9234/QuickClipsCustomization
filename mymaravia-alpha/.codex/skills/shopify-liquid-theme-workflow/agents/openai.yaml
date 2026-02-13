@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Liquid Workflow"
+  short_description: "Official Shopify and Liquid workflow for this repo"
+  default_prompt: "Use official Shopify docs patterns and run preflight checks before editing theme code."
